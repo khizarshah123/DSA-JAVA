@@ -1,3 +1,5 @@
+![image alt](https://github.com/khizarshah123/DSA-JAVA/blob/1ef06317ee17d1d0106184c4289206a869584363/Learn-DSA-with-Java-Image.jpeg)
+
 📘 Data Structures & Algorithms in Java
 
 This repository contains my Data Structures and Algorithms (DSA) implementations using Java.
