@@ -14,7 +14,7 @@ Worst Case: O(n)
 
 Space Complexity: O(1)
 
-📌 When to Use Linear Search
+ When to Use Linear Search
 
 Small datasets
 
@@ -46,4 +46,5 @@ class LinearSearch{
             System.out.println("Element found at index: " + result);
         }
     }
+
 }
